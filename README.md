@@ -30,6 +30,7 @@ Untuk menggunakan program, lakukan langkah-langkah berikut.
     ..........
 
     Masukkan Titik Kontrol 4
+    
     Absis(x): 5
 
     Ordinat(y):5
