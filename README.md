@@ -22,16 +22,23 @@ Untuk menggunakan program, lakukan langkah-langkah berikut.
     Masukkan Jumlah titik kontrol : 4
 
     Masukkan Titik Kontrol 1
+
     Absis(x): 
+
     Ordinat(y):
+
     ..........
+
     Masukkan Titik Kontrol 4
 
     Masukkan jumlah iterasi: 
--Program akan menampilkan kurva bezier yang diinginkan
+- Program akan menampilkan kurva bezier yang diinginkan
 
 ## Identitas
 Dibuat oleh:
+
 Nama    : Andi Marihot Sitorus
+
 NIM     : 13522138
+
 Jurusan : Teknik Informatika
