@@ -23,16 +23,16 @@ Untuk menggunakan program, lakukan langkah-langkah berikut.
 
     Masukkan Titik Kontrol 1
 
-    Absis(x): 
+    Absis(x): 1
 
-    Ordinat(y):
+    Ordinat(y):1
 
     ..........
 
     Masukkan Titik Kontrol 4
 
-    Masukkan jumlah iterasi: 
-- Program akan menampilkan kurva bezier yang diinginkan
+    Masukkan jumlah iterasi: 12
+- Setelah itu, program akan menampilkan kurva bezier yang diinginkan
 
 ## Identitas
 Dibuat oleh:
