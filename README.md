@@ -15,7 +15,7 @@
 
 
 ## How to Use
-Terdapat 4 file python yang masing-masing berisi algoritma sesuai dengan nama filenya.
+Dalam folder src, terdapat 4 file python yang masing-masing berisi algoritma sesuai dengan nama filenya.
 Untuk menggunakan program, lakukan langkah-langkah berikut.
 - Jalankan file program yang diinginkan di compiler python atau vscode
 - Masukkan input sesuai dengan yang diminta oleh program seperti
@@ -30,8 +30,13 @@ Untuk menggunakan program, lakukan langkah-langkah berikut.
     ..........
 
     Masukkan Titik Kontrol 4
+    Absis(x): 5
+
+    Ordinat(y):5
 
     Masukkan jumlah iterasi: 12
+
+    Dengan titik kontrol 1 sebagai titik awal dan titik kontrol terakhir sebagai titik akhir kurva.
 - Setelah itu, program akan menampilkan kurva bezier yang diinginkan
 
 ## Identitas
